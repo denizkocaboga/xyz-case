@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "novLy09a8nERMYBXNcs8mJFVipTKWokEvIxgqUTx1nSnrQHcgxOWkxDiMEjDVLNIsQhvM8riUE9ONDqz6gOyAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\deniz.kocaboga\\source\\repos\\Personel\\xyz-case\\XyzCase.Tweeldata.ApiClient\\XyzCase.Tweeldata.ApiClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deniz.kocaboga\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\deniz.kocaboga\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\deniz.kocaboga\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\deniz.kocaboga\\.nuget\\packages\\restsharp\\106.12.0\\restsharp.106.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}

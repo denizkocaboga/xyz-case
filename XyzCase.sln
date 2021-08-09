@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XyzCase", "XyzCase\XyzCase.csproj", "{425B72AA-53EB-4691-A797-3D60ABFF2045}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XyzCase.Tweeldata.ApiClient", "XyzCase.Tweeldata.ApiClient\XyzCase.Tweeldata.ApiClient.csproj", "{2D1DE4B1-8B3D-492B-B34A-19592A68C3BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{425B72AA-53EB-4691-A797-3D60ABFF2045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{425B72AA-53EB-4691-A797-3D60ABFF2045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{425B72AA-53EB-4691-A797-3D60ABFF2045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{425B72AA-53EB-4691-A797-3D60ABFF2045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D1DE4B1-8B3D-492B-B34A-19592A68C3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D1DE4B1-8B3D-492B-B34A-19592A68C3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D1DE4B1-8B3D-492B-B34A-19592A68C3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D1DE4B1-8B3D-492B-B34A-19592A68C3BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2E1A463-757F-47F3-92DC-965A8A30C2E9}
+	EndGlobalSection
+EndGlobal
